@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WforW</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="GPSAlertDialogTitle">Reguired Permissions</string>
+    <string name="GPSAlertDialogMessage">Please allow required gps permissions to get users near by</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
